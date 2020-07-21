@@ -1,0 +1,19 @@
+ul li a i {
+	font-size: 60px;
+	color: red;
+}
+ i {
+	color: red;
+}
+ul li a {
+	color: red !important;
+}
+
+.google-sign-up-form {
+	padding: 1% 20%;
+}
+.google-img {
+    margin-top: -45px;
+    margin-bottom: -35px;
+    padding: 25px;
+}
